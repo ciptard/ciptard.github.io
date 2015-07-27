@@ -1,7 +1,5 @@
 = Hello World!
 
-:published_at: 2015-07-27
-
 :hp-tags: Blog, 
 
 Well, it's just a test for this simple blog CMS which only required Github account for its use. In the future, I will, maybe, post some random things here.
