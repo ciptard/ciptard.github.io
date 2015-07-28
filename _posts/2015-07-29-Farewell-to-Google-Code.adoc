@@ -13,4 +13,4 @@ _Read more about it here : http://google-opensource.blogspot.com/2015/03/farewel
 
 You still have projects hosted there? Hurry up export them to Github. It's easy, just go to your project page and click *Export to Github*. Then Follow the instructions. _Done!_
 
-Lastly, sayonara Google Code!
+Lastly, sayonara Google Code! Thank you for providing this great service for the open source community over the years.
